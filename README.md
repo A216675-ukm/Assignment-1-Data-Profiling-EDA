@@ -23,10 +23,11 @@ Source: https://www.kaggle.com/datasets/brandao/diabetes
 
 ## How to Run the Notebook
 1. Download `Assignment1_Diabetes_Data_Profiling.ipynb` and `diabetic_data.csv` from this repository.
-2. Open the notebook in Google Colab or Jupyter Notebook.
-3. Place `diabetic_data.csv` in the notebook's working directory.
-4. Make sure the required Python libraries are installed.
-5. Run all cells in order using **Runtime > Run all** in Google Colab.
+2. Open in Google Colab:https://colab.research.google.com/github/A216675-ukm/Assignment-1-Data-Profiling-EDA/blob/main/Assignment1_Diabetes_Data_Profiling.ipynb
+3. Open the notebook in Google Colab or Jupyter Notebook.
+4. Place `diabetic_data.csv` in the notebook's working directory.
+5. Make sure the required Python libraries are installed.
+6. Run all cells in order using **Runtime > Run all** in Google Colab.
 
 ## Analysis
 The notebook includes data sampling, missing value detection and handling, outlier analysis using the IQR method, duplicate checks, categorical validation, diagnostic charts, and an assessment of PII and bias risks.
